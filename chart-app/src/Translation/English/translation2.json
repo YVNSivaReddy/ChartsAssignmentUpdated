@@ -1,0 +1,14 @@
+{
+  "addItem": "ADD ITEM",
+  "updateItem": "UPDATE ITEM",
+  "deleteItem": "DELETE ITEM",
+  "addButton": "ADD",
+  "enterSalary": "ENTER SALARY",
+  "enterNewBillName": "ENTER NEW BILL NAME",
+  "enterNewBillValue": "ENTER NEW BILL VALUE",
+  "updateSalary": "UPDATE SALARY",
+  "selectBillName": "SELECT BILL NAME",
+  "updateBillValue": "UPDATE BILL VALUE",
+  "updateButton": "UPDATE",
+  "deleteButton": "DELETE"
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components\\Charts",
+    "\\src\\components\\headerContent",
+    "\\src\\components\\mainContent",
+    "\\src\\reducers",
+    "\\src\\services",
+    "\\src\\Translation\\English",
+    "\\src\\Translation\\French",
+    "\\src\\Translation\\Spanish"
+  ],
+  "SelectedNode": "\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}

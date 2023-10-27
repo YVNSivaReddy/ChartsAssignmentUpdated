@@ -1,0 +1,8 @@
+{
+  "chartsData": [
+    [ "Expenses", "Expenses", "Amount" ],
+    [ "Salary", "Bills", 5000 ],
+    [ "Bills", "Electric Bill", 1000 ],
+    [ "Bills", "Mobile Bill", 2000 ]
+  ]
+}

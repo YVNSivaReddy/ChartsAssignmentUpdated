@@ -1,0 +1,14 @@
+{
+  "addItem": "AÑADIR ARTÍCULO",
+  "updateItem": "ACTUALIZAR ARTÍCULO",
+  "deleteItem": "ELIMINAR ELEMENTO",
+  "addButton": "AGREGAR",
+  "enterSalary": "ENTRER SALAIRE",
+  "enterNewBillName": "INGRESE EL NOMBRE DE LA NUEVA FACTURA",
+  "enterNewBillValue": "INGRESE EL NUEVO VALOR DE LA FACTURA",
+  "updateSalary": "ACTUALIZAR SALARIO",
+  "selectBillName": "SELECCIONAR NOMBRE DE FACTURA",
+  "updateBillValue": "ACTUALIZAR VALOR DE FACTURA",
+  "updateButton": "ACTUALIZAR",
+  "deleteButton": "BORRAR"
+}

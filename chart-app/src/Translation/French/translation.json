@@ -1,0 +1,14 @@
+{
+  "addItem": "AJOUTER UN ITEM",
+  "updateItem": "MISE À JOUR DE L'ARTICLE",
+  "deleteItem": "EFFACER L'ARTICLE",
+  "addButton": "AJOUTER",
+  "enterSalary": "ENTRER SALAIRE",
+  "enterNewBillName": "ENTREZ LE NOUVEAU NOM DE LA FACTURE",
+  "enterNewBillValue": "ENTRER LA NOUVELLE VALEUR DE LA FACTURE",
+  "updateSalary": "MISE À JOUR DU SALAIRE",
+  "selectBillName": "CHOISIR LE NOM DE LA FACTURE",
+  "updateBillValue": "METTRE À JOUR LA VALEUR DE LA FACTURE",
+  "updateButton": "MISE À JOUR",
+  "deleteButton": "SUPPRIMER"
+}
